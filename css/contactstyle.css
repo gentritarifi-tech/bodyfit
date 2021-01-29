@@ -1,0 +1,157 @@
+header{
+    background-color: white;
+    width: 1000px;
+    height: 250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    
+}
+.container{
+    float:left;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+#sbar{
+    float: right;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+body{
+    background-color: white;
+    width: 1000px;
+    height: 1366px;
+}
+body nav li{
+    display: inline;
+   
+    
+}
+body nav{
+    float: left;
+    background-color:#3b7a9d;
+    width: 1000px;
+    
+    
+}
+body nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    padding: 0px 0px 42px 42px;
+}
+footer{
+    float: right;
+    background-color: #d6d6d6;
+    width: 100%;
+    padding: 15px;
+    color:#999999;
+    
+    
+}
+#copyright{
+   float: left;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 12px;
+   
+}
+#themename{
+   float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 12px;
+}
+.text{
+   float: left;
+   width: 33.33%;
+   padding: 15px;
+ }
+  footer{
+    float: right;
+    background-color: #d6d6d6;
+    width: 100%;
+    padding: 15px;
+    color:#999999;
+    
+    
+}
+#copyright{
+   float: left;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 12px;
+   
+}
+#themename{
+   float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 12px;
+}
+
+ 
+ body {
+   background: #555;
+ }
+ 
+ body {
+   max-width: 100%;
+   margin: auto;
+   background: white;
+   
+ }
+ hr { width:33%; height:1px; background: #d6d6d6;
+}
+.main-content{
+ font-size: 0px;
+}
+#form{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+input[type=text], select, textarea
+{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=submit]
+{
+    background-color: #272727;
+    color: white;
+
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid #272727;
+}
+iframe{
+    margin-top: 30px;
+    border: 1px solid black;
+    width: 100%;
+}
+#form{
+    background-color: whitesmoke;
+    border: 1px solid #cacaca;
+   padding-top: 50px;
+    margin-bottom: 20px;
+}
+form{
+    
+    margin-left: 30px;
+    margin-top:52px ;
+    margin-bottom: 50px;
+    padding-top: -50px;
+}
+label{
+    font-size: 25px;
+    color: #424242;
+}
+
+
+
+
+
+ 
